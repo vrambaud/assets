@@ -1254,7 +1254,7 @@
     {
       "customType": "BABYLON.InputBlock",
       "id": 175303,
-      "name": "AXEPAINTLIMIT_X1_OR_Y0",
+      "name": "AXISPAINTLIMIT_X1_OR_Y0",
       "comments": "0: split on Y | 1: split on X",
       "inputs": [],
       "outputs": [
@@ -1278,8 +1278,8 @@
     {
       "customType": "BABYLON.InputBlock",
       "id": 175304,
-      "name": "AXEPAINTLIMIT_Z",
-      "comments": "1: split on Z | 0: axis is defined by AXEPAINTLIMIT_X1_OR_Y0",
+      "name": "AXISPAINTLIMIT_Z",
+      "comments": "1: split on Z | 0: axis is defined by AXISPAINTLIMIT_X1_OR_Y0",
       "inputs": [],
       "outputs": [
         {
@@ -1321,7 +1321,7 @@
     {
       "customType": "BABYLON.InputBlock",
       "id": 178140,
-      "name": "AXEFLIP",
+      "name": "AXISFLIP",
       "comments": "",
       "inputs": [],
       "outputs": [
